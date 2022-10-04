@@ -12,9 +12,14 @@ Criar um site com imagens e vídeo responsivos para se adaptar a qualquer tamanh
 
 >Links
 
-🔗
+Para acesar o site clique no link abaixo ou aponte a câmera do celular para o código QR.
 
-🔗
+🔗[Url Site](https://edysilva27.github.io/projeto-site-android/)
+
+**QR Code** 
+
+![preview](./.github/frame.png)
+
 
 ## 🔧 Tecnoligias
 
